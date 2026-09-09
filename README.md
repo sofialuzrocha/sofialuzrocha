@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sofia 👋
 
-<!--
-**sofialuzrocha/sofialuzrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with a background in **Applied Mathematics** and an **MSc in Business Analytics**, where I developed hands-on experience through projects in data science, machine learning and statistical modelling.
 
-Here are some ideas to get you started:
+I currently work across data analytics, data processes and business applications, with a particular interest in **Data Science and Machine Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech
+Python • SQL • R • SAS • Power BI • Tableau
+
+### 📊 Areas of Interest
+Data Science • Machine Learning • Statistical Modelling • Data Analytics
+
+### 🚀 Projects
+Building soon.
